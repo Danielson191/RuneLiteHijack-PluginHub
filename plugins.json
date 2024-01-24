@@ -56,7 +56,7 @@
       "net.runelite.client.plugins.gauntlet.GauntletPlugin"
     ],
     "displayName": "Gauntlet",
-    "description": "Doesn't seem to work. Outdated maybe?",
+    "description": "Doesn't seem to work. Or I'm just dumb.",
     "provider": "gauntlet"
   },
   {
