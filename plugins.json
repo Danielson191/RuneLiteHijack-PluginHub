@@ -57,7 +57,7 @@
   {
     "internalName": "vorkath-6.0.0.jar",
     "hash": "709D609A7FEEF5C1F3A946F76971485F55765606EF3112C4547C32D4F35C6236",
-    "size": 8293,
+    "size": 23773,
     "plugins": [
       "net.runelite.client.plugins.vorkath.VorkathPlugin"
     ],
