@@ -10,29 +10,4 @@
     "description": "",
     "provider": "arnah"
   }
-  {
-    "internalName": "inferno-6.0.0.jar",
-    "hash": "71EC4D24BE77969E75DE456C3FA60F34ACB6752B5C14C5C739C79D738A4649A0",
-    "size": 52509,
-    "plugins": [
-      "net.runelite.client.plugins.inferno.InfernoBlobDeathSpot",
-      "net.runelite.client.plugins.inferno.InfernoConfig",
-      "net.runelite.client.plugins.inferno.InfernoInfoBoxOverlay",
-      "net.runelite.client.plugins.inferno.InfernoNPC",
-      "net.runelite.client.plugins.inferno.InfernoPlugin",
-      "net.runelite.client.plugins.inferno.InfernoOverlay",
-      "net.runelite.client.plugins.inferno.InfernoSpawnTimerInfobox",
-      "net.runelite.client.plugins.inferno.InfernoWaveMappings",
-      "net.runelite.client.plugins.inferno.InfernoWaveOverlay",
-      "net.runelite.client.plugins.inferno.displaymodes.InfernoNamingDisplayMode",
-      "net.runelite.client.plugins.inferno.displaymodes.InfernoPrayerDisplayMode",
-      "net.runelite.client.plugins.inferno.displaymodes.InfernoNamingDisplayMode",
-      "net.runelite.client.plugins.inferno.displaymodes.InfernoSafespotDisplayMode",
-      "net.runelite.client.plugins.inferno.displaymodes.InfernoWaveDisplayMode",
-      "net.runelite.client.plugins.inferno.displaymodes.InfernoZukShieldDisplayMode",
-    ],
-    "displayName": "Inferno Plugin",
-    "description": "Pls work",
-    "provider": "inferno"
-  }
 ]
