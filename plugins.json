@@ -29,7 +29,7 @@
       "net.runelite.client.plugins.inferno.displaymodes.InfernoNamingDisplayMode",
       "net.runelite.client.plugins.inferno.displaymodes.InfernoSafespotDisplayMode",
       "net.runelite.client.plugins.inferno.displaymodes.InfernoWaveDisplayMode",
-      "net.runelite.client.plugins.inferno.displaymodes.InfernoZukShieldDisplayMode",
+      "net.runelite.client.plugins.inferno.displaymodes.InfernoZukShieldDisplayMode"
     ],
     "displayName": "Inferno Plugin",
     "description": "Pls work",
