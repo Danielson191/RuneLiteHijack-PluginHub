@@ -32,7 +32,7 @@
       "net.runelite.client.plugins.inferno.displaymodes.InfernoZukShieldDisplayMode"
     ],
     "displayName": "Inferno Plugin",
-    "description": "Pls work",
+    "description": "",
     "provider": "inferno"
   }
 ]
