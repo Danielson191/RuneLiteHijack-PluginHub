@@ -63,7 +63,7 @@
       "net.runelite.client.plugins.vorkath.VorkathConfig"
     ],
     "displayName": "Vorkath",
-    "description": "Have not tested yet",
+    "description": "Haven't tested yet",
     "provider": "vorkath"
   }
 ]
