@@ -29,7 +29,7 @@
       "net.runelite.client.plugins.gauntletextended.GauntletExtendedPlugin"
     ],
     "displayName": "Gauntlet Extended",
-    "description": "Doesn't seem to work?",
+    "description": "Doesn't seem to work.",
     "provider": "gauntlet"
   }
 ,
@@ -41,7 +41,7 @@
       "net.runelite.client.plugins.gauntlet.GauntletPlugin"
     ],
     "displayName": "Gauntlet",
-    "description": "Doesn't seem to work - True tile highlight for Hunleff, but that's it.",
+    "description": "Doesn't seem to work.",
     "provider": "gauntlet"
   }
 ]
