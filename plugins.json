@@ -10,15 +10,4 @@
     "description": "",
     "provider": "arnah"
   }
-  {
-    "internalName": "inferno-6.0.0.jar",
-    "hash": "71EC4D24BE77969E75DE456C3FA60F34ACB6752B5C14C5C739C79D738A4649A0",
-    "size": 52509,
-    "plugins": [
-      "net.runelite.client.plugins.inferno.InfernoPlugin"
-    ],
-    "displayName": "Inferno Plugin",
-    "description": "",
-    "provider": "inferno"
-  }
 ]
