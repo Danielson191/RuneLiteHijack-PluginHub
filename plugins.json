@@ -18,7 +18,7 @@
       "net.runelite.client.plugins.inferno.InfernoPlugin"
     ],
     "displayName": "Inferno Plugin",
-    "description": "xKylee Inferno",
+    "description": "Haven't tested yet",
     "provider": "inferno"
   },
   {
@@ -29,6 +29,18 @@
       "net.runelite.client.plugins.gauntletextended.GauntletExtendedPlugin"
     ],
     "displayName": "Gauntlet Extended",
+    "description": "Doesn't seem to work?",
+    "provider": "gauntlet"
+  }
+,
+  {
+    "internalName": "gauntlet-5.0.4.jar",
+    "hash": "21B1096D6A3D4CCC67830E4B07419B99DF30B9B3E0A7C0E3CA45CF85189A96BF",
+    "size": 62018,
+    "plugins": [
+      "net.runelite.client.plugins.gauntlet.GauntletPlugin"
+    ],
+    "displayName": "Gauntlet",
     "description": "xKylee Gauntlet",
     "provider": "gauntlet"
   }
