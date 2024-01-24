@@ -41,7 +41,7 @@
       "net.runelite.client.plugins.gauntlet.GauntletPlugin"
     ],
     "displayName": "Gauntlet",
-    "description": "xKylee Gauntlet",
+    "description": "Doesn't seem to work - True tile highlight for Hunleff, but that's it.",
     "provider": "gauntlet"
   }
 ]
