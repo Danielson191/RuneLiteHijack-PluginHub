@@ -18,7 +18,18 @@
       "net.runelite.client.plugins.inferno.InfernoPlugin"
     ],
     "displayName": "Inferno Plugin",
-    "description": "",
+    "description": "xKylee Inferno",
     "provider": "inferno"
+  },
+  {
+    "internalName": "gauntletextended-6.0.0.jar",
+    "hash": "76927C20B615297664B9769B416E805B4ACF3AE1FCEF9875D524162DC6FDB8AE",
+    "size": 63810,
+    "plugins": [
+      "net.runelite.client.plugins.gauntletextended.GauntletExtendedPlugin"
+    ],
+    "displayName": "Gauntlet Extended",
+    "description": "xKylee Gauntlet",
+    "provider": "gauntlet"
   }
 ]
