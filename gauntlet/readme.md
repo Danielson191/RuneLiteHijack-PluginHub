@@ -1,1 +1,1 @@
-Neither gauntlet plugin appears to work anymore. Gauntlet is piss easy anyways, why would anyone need this?
+Can't seem to get a config gear going. No idea what's happening here.
