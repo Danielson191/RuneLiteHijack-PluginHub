@@ -1,1 +1,1 @@
-Neither gauntlet plugin appears to work - probably due to projectiles no longer being able to be read. True tile for Hunleff appears.
+Neither gauntlet plugin appears to work anymore. Gauntlet is piss easy anyways, why would anyone need this?
