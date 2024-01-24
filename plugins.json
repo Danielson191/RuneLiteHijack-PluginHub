@@ -53,5 +53,16 @@
     "displayName": "Smithing",
     "description": "Wtf does this even do?",
     "provider": "smithing"
+  },
+  {
+    "internalName": "vorkath-6.0.0.jar",
+    "hash": "709D609A7FEEF5C1F3A946F76971485F55765606EF3112C4547C32D4F35C6236",
+    "size": 8293,
+    "plugins": [
+      "net.runelite.client.plugins.vorkath.VorkathPlugin"
+    ],
+    "displayName": "Vorkath",
+    "description": "Have not tested yet",
+    "provider": "vorkath"
   }
 ]
