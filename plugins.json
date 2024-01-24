@@ -31,8 +31,7 @@
     "displayName": "Gauntlet Extended",
     "description": "Doesn't seem to work.",
     "provider": "gauntlet"
-  }
-,
+  },
   {
     "internalName": "gauntlet-5.0.4.jar",
     "hash": "21B1096D6A3D4CCC67830E4B07419B99DF30B9B3E0A7C0E3CA45CF85189A96BF",
@@ -43,5 +42,16 @@
     "displayName": "Gauntlet",
     "description": "Doesn't seem to work.",
     "provider": "gauntlet"
+  },
+  {
+    "internalName": "smithing-6.0.0.jar",
+    "hash": "2CA5FD8898EA191616A05EB54EED455D323CB76B2D6DF29D0E7D7E31242C8616",
+    "size": 8293,
+    "plugins": [
+      "net.runelite.client.plugins.smithing.SmithingPlugin"
+    ],
+    "displayName": "Smithing",
+    "description": "Wtf does this even do?",
+    "provider": "smithing"
   }
 ]
