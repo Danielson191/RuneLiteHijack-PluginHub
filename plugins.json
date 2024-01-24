@@ -26,10 +26,26 @@
     "hash": "76927C20B615297664B9769B416E805B4ACF3AE1FCEF9875D524162DC6FDB8AE",
     "size": 63810,
     "plugins": [
-      "net.runelite.client.plugins.gauntletextended.GauntletExtendedPlugin"
+      "net.runelite.client.plugins.gauntletextended.GauntletExtendedPlugin",
+      "net.runelite.client.plugins.gauntletextended.GauntletExtendedConfig",
+      "net.runelite.client.plugins.gauntletextended.entity.Demiboss",
+      "net.runelite.client.plugins.gauntletextended.entity.Hunleff",
+      "net.runelite.client.plugins.gauntletextended.entity.Missile",
+      "net.runelite.client.plugins.gauntletextended.entity.Resource",
+      "net.runelite.client.plugins.gauntletextended.entity.Tornado",
+      "net.runelite.client.plugins.gauntletextended.overlay.Overlay",
+      "net.runelite.client.plugins.gauntletextended.overlay.OverlayGauntlet",
+      "net.runelite.client.plugins.gauntletextended.overlay.OverlayHunllef",
+      "net.runelite.client.plugins.gauntletextended.overlay.OverlayPrayerBox",
+      "net.runelite.client.plugins.gauntletextended.overlay.OverlayPrayerWidget",
+      "net.runelite.client.plugins.gauntletextended.overlay.OverlayTimer",
+      "net.runelite.client.plugins.gauntletextended.overlay.OverlayUtil",
+      "net.runelite.client.plugins.gauntletextended.resource.Resource",
+      "net.runelite.client.plugins.gauntletextended.resource.ResourceCounter",
+      "net.runelite.client.plugins.gauntletextended.resource.ResourceManager"
     ],
     "displayName": "Gauntlet Extended",
-    "description": "Doesn't seem to work.",
+    "description": "Can't seem to get it to work.",
     "provider": "gauntlet"
   },
   {
@@ -40,7 +56,7 @@
       "net.runelite.client.plugins.gauntlet.GauntletPlugin"
     ],
     "displayName": "Gauntlet",
-    "description": "Doesn't seem to work.",
+    "description": "Doesn't seem to work. Outdated maybe?",
     "provider": "gauntlet"
   },
   {
@@ -63,7 +79,7 @@
       "net.runelite.client.plugins.vorkath.VorkathConfig"
     ],
     "displayName": "Vorkath",
-    "description": "Haven't tested yet",
+    "description": "WIP to get it to work",
     "provider": "vorkath"
   }
 ]
