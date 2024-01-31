@@ -12,7 +12,7 @@
   },
   {
     "internalName": "inferno-6.0.0.jar",
-    "hash": "71EC4D24BE77969E75DE456C3FA60F34ACB6752B5C14C5C739C79D738A4649A0",
+    "hash": "71ec4d24be77969e75de456c3fa60f34acb6752b5c14c5c739c79d738a4649a0",
     "size": 52509,
     "plugins": [
       "net.runelite.client.plugins.inferno.InfernoPlugin"
@@ -23,26 +23,10 @@
   },
   {
     "internalName": "gauntletextended-6.0.0.jar",
-    "hash": "76927C20B615297664B9769B416E805B4ACF3AE1FCEF9875D524162DC6FDB8AE",
+    "hash": "76927c20b615297664b9769b416e805b4acf3ae1fcef9875d524162dc6fdb8ae",
     "size": 63810,
     "plugins": [
-      "net.runelite.client.plugins.gauntletextended.GauntletExtendedPlugin",
-      "net.runelite.client.plugins.gauntletextended.GauntletExtendedConfig",
-      "net.runelite.client.plugins.gauntletextended.entity.Demiboss",
-      "net.runelite.client.plugins.gauntletextended.entity.Hunleff",
-      "net.runelite.client.plugins.gauntletextended.entity.Missile",
-      "net.runelite.client.plugins.gauntletextended.entity.Resource",
-      "net.runelite.client.plugins.gauntletextended.entity.Tornado",
-      "net.runelite.client.plugins.gauntletextended.overlay.Overlay",
-      "net.runelite.client.plugins.gauntletextended.overlay.OverlayGauntlet",
-      "net.runelite.client.plugins.gauntletextended.overlay.OverlayHunllef",
-      "net.runelite.client.plugins.gauntletextended.overlay.OverlayPrayerBox",
-      "net.runelite.client.plugins.gauntletextended.overlay.OverlayPrayerWidget",
-      "net.runelite.client.plugins.gauntletextended.overlay.OverlayTimer",
-      "net.runelite.client.plugins.gauntletextended.overlay.OverlayUtil",
-      "net.runelite.client.plugins.gauntletextended.resource.Resource",
-      "net.runelite.client.plugins.gauntletextended.resource.ResourceCounter",
-      "net.runelite.client.plugins.gauntletextended.resource.ResourceManager"
+      "net.runelite.client.plugins.gauntletextended.GauntletExtendedPlugin"
     ],
     "displayName": "Gauntlet Extended",
     "description": "Can't seem to get it to work.",
@@ -50,7 +34,7 @@
   },
   {
     "internalName": "gauntlet-5.0.4.jar",
-    "hash": "21B1096D6A3D4CCC67830E4B07419B99DF30B9B3E0A7C0E3CA45CF85189A96BF",
+    "hash": "21b1096d6a3d4ccc67830e4b07419b99df30b9b3e0a7c0e3ca45cf85189a96bf",
     "size": 62018,
     "plugins": [
       "net.runelite.client.plugins.gauntlet.GauntletPlugin"
@@ -61,7 +45,7 @@
   },
   {
     "internalName": "smithing-6.0.0.jar",
-    "hash": "2CA5FD8898EA191616A05EB54EED455D323CB76B2D6DF29D0E7D7E31242C8616",
+    "hash": "2ca5fd8898ea191616a05eb54eed455d323cb76b2d6df29d0e7d7e31242c8616",
     "size": 8293,
     "plugins": [
       "net.runelite.client.plugins.smithing.SmithingPlugin"
@@ -72,11 +56,10 @@
   },
   {
     "internalName": "vorkath-6.0.0.jar",
-    "hash": "709D609A7FEEF5C1F3A946F76971485F55765606EF3112C4547C32D4F35C6236",
+    "hash": "709d609a7feef5c1f3a946f76971485f55765606ef3112c4547c32d4f35c6236",
     "size": 23773,
     "plugins": [
-      "net.runelite.client.plugins.vorkath.VorkathPlugin",
-      "net.runelite.client.plugins.vorkath.VorkathConfig"
+      "net.runelite.client.plugins.vorkath.VorkathPlugin"
     ],
     "displayName": "Vorkath",
     "description": "WIP to get it to work",
