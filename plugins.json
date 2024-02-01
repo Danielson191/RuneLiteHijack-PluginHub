@@ -18,7 +18,7 @@
       "net.runelite.client.plugins.inferno.InfernoPlugin"
     ],
     "displayName": "Inferno Plugin",
-    "description": "Haven't tested yet",
+    "description": "Round 2 of testing",
     "provider": "inferno"
   },
   {
