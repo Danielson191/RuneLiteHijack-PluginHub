@@ -18,7 +18,7 @@
       "net.runelite.client.plugins.inferno.InfernoPlugin"
     ],
     "displayName": "Inferno Plugin",
-    "description": "Round 2 of testing",
+    "description": "Hmm.",
     "provider": "inferno"
   },
   {
@@ -51,7 +51,7 @@
       "net.runelite.client.plugins.smithing.SmithingPlugin"
     ],
     "displayName": "Smithing",
-    "description": "Wtf does this even do?",
+    "description": "I am very dumb.",
     "provider": "smithing"
   },
   {
@@ -62,7 +62,7 @@
       "net.runelite.client.plugins.vorkath.VorkathPlugin"
     ],
     "displayName": "Vorkath",
-    "description": "WIP to get it to work",
+    "description": "Nope",
     "provider": "vorkath"
   }
 ]
