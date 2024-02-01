@@ -11,7 +11,7 @@
     "provider": "arnah"
   },
   {
-    "internalName": "inferno-6.0.0.jar",
+    "internalName": "inferno-6.0.0",
     "hash": "71ec4d24be77969e75de456c3fa60f34acb6752b5c14c5c739c79d738a4649a0",
     "size": 52509,
     "plugins": [
@@ -22,7 +22,7 @@
     "provider": "inferno"
   },
   {
-    "internalName": "gauntletextended-6.0.0.jar",
+    "internalName": "gauntletextended-6.0.0",
     "hash": "76927c20b615297664b9769b416e805b4acf3ae1fcef9875d524162dc6fdb8ae",
     "size": 63810,
     "plugins": [
@@ -33,7 +33,7 @@
     "provider": "gauntlet"
   },
   {
-    "internalName": "gauntlet-5.0.4.jar",
+    "internalName": "gauntlet-5.0.4",
     "hash": "21b1096d6a3d4ccc67830e4b07419b99df30b9b3e0a7c0e3ca45cf85189a96bf",
     "size": 62018,
     "plugins": [
@@ -44,7 +44,7 @@
     "provider": "gauntlet"
   },
   {
-    "internalName": "smithing-6.0.0.jar",
+    "internalName": "smithing-6.0.0",
     "hash": "2ca5fd8898ea191616a05eb54eed455d323cb76b2d6df29d0e7d7e31242c8616",
     "size": 8293,
     "plugins": [
@@ -55,7 +55,7 @@
     "provider": "smithing"
   },
   {
-    "internalName": "vorkath-6.0.0.jar",
+    "internalName": "vorkath-6.0.0",
     "hash": "709d609a7feef5c1f3a946f76971485f55765606ef3112c4547c32d4f35c6236",
     "size": 23773,
     "plugins": [
