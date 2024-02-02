@@ -11,6 +11,17 @@
     "provider": "arnah"
   },
   {
+    "internalName": "betterequipmentinspector-6.0.0",
+    "hash": "432245fe0f1f6508dbf2857c61d341c66202df07cf676076a2e43bf4d9420c24",
+    "size": 11516,
+    "plugins": [
+      "net.runelite.client.plugins.betterequipmentinspector.BetterEquipmentInspectorPlugin"
+    ],
+    "displayName": "Better Equipment Inspector",
+    "description": "I beg",
+    "provider": "betterequipmentinspector"
+  },
+  {
     "internalName": "inferno-6.0.0",
     "hash": "71ec4d24be77969e75de456c3fa60f34acb6752b5c14c5c739c79d738a4649a0",
     "size": 52509,
