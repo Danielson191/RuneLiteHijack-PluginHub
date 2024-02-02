@@ -33,17 +33,6 @@
     "provider": "gauntlet"
   },
   {
-    "internalName": "gauntlet-5.0.4",
-    "hash": "21b1096d6a3d4ccc67830e4b07419b99df30b9b3e0a7c0e3ca45cf85189a96bf",
-    "size": 62018,
-    "plugins": [
-      "net.runelite.client.plugins.gauntlet.GauntletPlugin"
-    ],
-    "displayName": "Gauntlet",
-    "description": "Doesn't seem to work. Or I'm just dumb.",
-    "provider": "gauntlet"
-  },
-  {
     "internalName": "smithing-6.0.0",
     "hash": "2ca5fd8898ea191616a05eb54eed455d323cb76b2d6df29d0e7d7e31242c8616",
     "size": 8293,
