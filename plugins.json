@@ -44,17 +44,6 @@
     "provider": "gauntlet"
   },
   {
-    "internalName": "smithing-6.0.0",
-    "hash": "2ca5fd8898ea191616a05eb54eed455d323cb76b2d6df29d0e7d7e31242c8616",
-    "size": 8293,
-    "plugins": [
-      "net.runelite.client.plugins.smithing.SmithingPlugin"
-    ],
-    "displayName": "Smithing",
-    "description": "I am very dumb.",
-    "provider": "smithing"
-  },
-  {
     "internalName": "vorkath-6.0.0",
     "hash": "709d609a7feef5c1f3a946f76971485f55765606ef3112c4547c32d4f35c6236",
     "size": 23773,
