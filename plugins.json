@@ -12,7 +12,7 @@
   },
   {
     "internalName": "demonicgorilla-6.0.0",
-    "hash": "7b544e8852ed87806f05b5a21fea08Ca43957e7900131a5679156982a3551c4c",
+    "hash": "7b544e8852ed87806f05b5a21fea08ca43957e7900131a5679156982a3551c4c",
     "size": 19375,
     "plugins": [
       "net.runelite.client.plugins.demonicgorilla.DemonicGorillaPlugin"
